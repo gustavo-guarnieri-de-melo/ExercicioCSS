@@ -1,0 +1,12 @@
+#topo_geral{
+    background-image: url(FIAP.png);
+}
+#PRINCIPAL{
+    width: 650px;
+    margin: 0 auto;
+}
+#topo_geral{
+    background-image: url(../ProjetoHTML/css/fiap.png);
+    height: 175px;
+    background-repeat: no-repeat;
+}
